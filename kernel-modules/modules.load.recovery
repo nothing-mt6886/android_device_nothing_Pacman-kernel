@@ -49,7 +49,6 @@ clk-bringup.ko
 clk-chk-mt6886.ko
 pd-chk-mt6886.ko
 clk-fmeter-mt6886.ko
-mtk_dramc.ko
 mtk-dvfsrc.ko
 mtk-smi.ko
 mtk-smi-dbg.ko
@@ -116,6 +115,7 @@ mtk-pmic-keys.ko
 mtk-kpd.ko
 regulator-vibrator.ko
 i2c-mt65xx.ko
+mtk_dramc.ko
 clk-dbg-mt6886.ko
 spi-mt65xx.ko
 mt6375.ko

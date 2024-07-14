@@ -119,7 +119,6 @@ sensorhub.ko
 mtk_ccd_remoteproc.ko
 ccd_rpmsg.ko
 v4l2-fwnode.ko
-v4l2-async.ko
 mtk-cam-isp7s.ko
 imgsensor-glue.ko
 imgsensor.ko
@@ -140,6 +139,7 @@ mtk-lpm-dbg-mt6886.ko
 pmsr.ko
 spmtwam.ko
 gt9896s.ko
+v4l2-async.ko
 mtk-composite.ko
 lm3643.ko
 aw36518.ko

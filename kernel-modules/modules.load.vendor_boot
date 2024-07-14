@@ -46,7 +46,6 @@ clk-bringup.ko
 clk-chk-mt6886.ko
 pd-chk-mt6886.ko
 clk-fmeter-mt6886.ko
-mtk_dramc.ko
 mtk-dvfsrc.ko
 mtk-smi.ko
 mtk-smi-dbg.ko
@@ -112,6 +111,7 @@ mtk-pmic-keys.ko
 mtk-kpd.ko
 regulator-vibrator.ko
 i2c-mt65xx.ko
+mtk_dramc.ko
 spi-mt65xx.ko
 mt6375.ko
 extdev_io_class.ko
@@ -165,7 +165,6 @@ adsp.ko
 mtk_slbc.ko
 slbc_mt6886.ko
 slbc_ipi.ko
-mediatek-cpufreq-hw.ko
 vcp_status.ko
 mtk_ccu.ko
 arm_dsu_pmu.ko
@@ -174,6 +173,7 @@ emi.ko
 emi-mpu.ko
 emi-mpu-v2.ko
 emi-slb.ko
+mediatek-cpufreq-hw.ko
 mtk-socinfo.ko
 cache-parity.ko
 cfg80211.ko
